@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_sort_entries">
+        <item>Kelvin</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+
+    <string-array name="pref_sort_values">
+        <item>kelvin</item>
+        <item>metric</item>
+        <item>imperial</item>
+    </string-array>
+</resources>
